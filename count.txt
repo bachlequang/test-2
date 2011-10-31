@@ -1,0 +1,2 @@
+Python is a cool language but OCaml
+is even cooler since it is purely functional
